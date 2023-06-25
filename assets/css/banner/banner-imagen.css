@@ -1,7 +1,6 @@
 .banner__imagen{
     background: url('../../../../../Imágenes/CHETE}/wallhaven-2yz3m9.jpg') no-repeat center / cover;
-    width: 100%;
-    
+    width: 100%; 
 }
 
 @media screen and (min-width: 0){
